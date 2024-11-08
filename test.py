@@ -1,18 +1,43 @@
-so = int(input())
-f = []
-for i in range(0,so):
-    f.append(int(input()))
-output = []
-for number in f:
-    number_digits = [int(i) for i in str(number)]
-    number_digits = list(enumerate(number_digits))
-    mul = 1
-    sum_odd = 0
-    for index, item in number_digits:
-        if index % 2 == 0:
-            if item != 0:
-                mul = mul * item
-        else:
-            sum_odd = sum_odd + item
-
-
+def change(x):
+    if x >= 39:
+        return 9.0
+    elif x >= 37:
+        return 8.5
+    elif x >= 35:
+        return 8.0
+    elif x >= 33:
+        return 7.5
+    elif x >= 30:
+        return 7.0
+    elif x >= 27:
+        return 6.5
+    elif x >= 23:
+        return 6.0
+    elif x >= 20:
+        return 5.5
+    elif x >= 16:
+        return 5.0
+    elif x >= 13:
+        return 4.5
+    elif x >= 10:
+        return 4.0
+    elif x >= 7:
+        return 3.5
+    elif x >= 5:
+        return 3.0
+    else:
+        return 2.5
+length = int(input())
+for i in range(length):
+    N = list(map(float, input().split()))
+    reading= int(N[0])
+    listening = int(N[1])
+    speaking = float(N[2])
+    writing = float(N[3])
+    point = (change(listening) + change(reading) + speaking + writing)/4
+    if point - int(point) >= 0.75:
+        print(int(point) + 1)
+    elif point - int(point) >= 0.25:
+        print(int(point) + 0.5)
+    else:
+        print(int(point) + 0.0)

@@ -15,11 +15,10 @@ def so_nguyen_to(k):
         return "NO"
     if k == 2:
         return "YES"
-    for x in range(1, int(k ** 0.5)):
+    for x in range(2, int(k ** 0.5)):
         if k % x == 0:
             return "NO"
-        else:
-            return "YES"
+    return "YES"
 
 test = int(input())
 for _ in range(test):

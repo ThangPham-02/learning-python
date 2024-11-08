@@ -28,16 +28,15 @@ def change(x):
     else:
         return 2.5
 length = int(input())
-N = []
 for i in range(length):
     N = list(map(float, input().split()))
-    listening = N[0]
-    reading = N[1]
-    speaking = N[2]
-    writing = N[3]
+    reading= int(N[0])
+    listening = int(N[1])
+    speaking = float(N[2])
+    writing = float(N[3])
     point = (change(listening) + change(reading) + speaking + writing)/4
     if point - int(point) >= 0.75:
-        print(int(point) + 1)
+        print(int(point) + 1.0)
     elif point - int(point) >= 0.25:
         print(int(point) + 0.5)
     else:
