@@ -5,110 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14a332c-e83d-4af3-83a8-bd20704a704a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Biến_đổi_dãy_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biến_đổi_về_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chan_le.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chen_dau_phay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chia_dư_cho_42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chia_hết_cho_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chèn_xâu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chúc_mừng_năm_mới.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chẵn_Lẻ_nguyên_tố.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chữ_số_nguyên_tố.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Con_số_duyên_nợ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cặp_nghịch_thế.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dau_cuoi_nguyen_to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dem_so_trong_sau.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia_chi_ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dãy_số_nhị_phân.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dãy_số_phù_hợp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EMIRP_NUMBER.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Giai_ma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hoán_vị_ký_tự.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Khoang_cach_ky_tu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kiem_tra_so_dep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kiểm_tra_chia_hết.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kiểm_tra_chia_hết_cho_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kiểm_tra_hệ_cơ_số_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kiểm_tra_nguyên_tố.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ký_tự_A_B_C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ký_tự_thứ_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kểm_tra_chia_hết.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Liệt_kê_cặp_số_nguyên_tố_cùng_nhau.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Liệt_kê_số_nguyên_tố_trong_dãy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Liệt_kê_số_đẹp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Liệt_số_FIBONACCI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Làm_tròn_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lớp_point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MIN_TRIPLE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ma_hoa_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mã_hoá_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nguyen_to_cung_nhau.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nguyên_tố_cùng_nhau.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PERFECT_PRIME.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRIME_TRIPLET.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON_FILE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phân_tích_thừa_số_nguyên_tố.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUM_TRIPLE_ZERO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/So_dao_nguyen_to_cung_nhau.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/So_phat_loc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/So_xen_ke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sắp_xếp_theo_tích_chữ_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sắp_xếp_theo_tổng_chữ_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sắp_đặt_lại_xâu_ký_tự.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_2_ưu_thế.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_KRISH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_có_9_ước_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_nguyên_lớn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_nhỏ_nhất_còn_thiếu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_phát_lộc_đẹp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_thuận_nghịch_chẵn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Số_tăng_giảm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thay_đổi_chữ_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thu_gon_day_so.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thu_phi_xe_o_to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tich_chu_so_Tong_chu_so.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tinh_tong_phan_thuc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tong_chu_so_nguyen_to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuyển_nhân_viên.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tìm_số_lớn_nhất.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tìm_số_nhỏ_nhất.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tích_chữ_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tính_tổng_các_chữ_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tính_điểm_trung_bình.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tổng_chữ_số_thuận_nghịch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tổng_ước_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uoc_so_chung_nguyen_to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uu_the_nguyen_to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vị_trí_nguyên_tố.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xoay_mảng.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xuat_hien_nhieu_lan_nhat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xâu_Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xâu_THĂNG_BẰNG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Xử_lý_xâu_ký_tự.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Điền_số.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Đoạn_cuối_nguyên_tố.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chia_het_cho_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chia_het_cho_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cunh_hoang_dao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cung_hoang_dao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dau_cuoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dau_cuoi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lai_suat_ngan_hang.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lai_suat_ngan_hang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tong_chu_so_Tich_chu_so.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nguyen_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nguyen_to.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/so_chia_het_cho_K.py" beforeDir="false" afterPath="$PROJECT_DIR$/So_chia_het_cho_K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/so_khong_giam.py" beforeDir="false" afterPath="$PROJECT_DIR$/So_khong_giam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/so_may_man.py" beforeDir="false" afterPath="$PROJECT_DIR$/So_may_man.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/so_may_man_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/So_may_man_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tach_tu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tach_tu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bầu_cử.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bộ_ ba_nguyên_tố_cùng_nhau.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Danh_sách_môn_thi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DaySoINP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DaySoINP2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DaySoOUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DaySoOUT2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gửi_thông_báo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hệ_cơ_số_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiểm_tra_nguyên_tố_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lớn_nhất_và_nhỏ_nhất.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma_trân_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ma_trận_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TBCINP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TBCOUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tính_cân_đối_của_ma_trân.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tính_cân_đối_của_ma_trận_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tần_suất_lẻ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UOCINO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UOCOUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Đổi_cơ_số_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dãy_số_phù_hợp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dãy_số_phù_hợp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng_ước_số.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tổng_ước_số.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tinh_diem_ielts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tính_điểm_thi_IELTS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ucln.py" beforeDir="false" afterPath="$PROJECT_DIR$/ucln.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,122 +58,241 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Biến_đổi_dãy_số.executor": "Run",
-    "Python.Biến_đổi_về_1.executor": "Run",
-    "Python.Chan_le.executor": "Run",
-    "Python.Chen_dau_phay.executor": "Run",
-    "Python.Chia_dư_cho_42.executor": "Run",
-    "Python.Chèn_xâu.executor": "Run",
-    "Python.Chúc_mừng_năm_mới.executor": "Run",
-    "Python.Chẵn_Lẻ_nguyên_tố.executor": "Run",
-    "Python.Computer.executor": "Run",
-    "Python.Con_số_duyên_nợ.executor": "Run",
-    "Python.Cặp_nghịch_thế.executor": "Run",
-    "Python.Dau_cuoi_nguyen_to.executor": "Run",
-    "Python.Dia_chi_ip.executor": "Run",
-    "Python.Dãy_số_nhị_phân.executor": "Run",
-    "Python.Dãy_số_phù_hợp.executor": "Run",
-    "Python.EMIRP_NUMBER.executor": "Run",
-    "Python.Giai_ma.executor": "Run",
-    "Python.Hoán_vị_ký_tự.executor": "Run",
-    "Python.Khoang_cach_ki_tu.executor": "Run",
-    "Python.Kiem_tra_so_dep.executor": "Run",
-    "Python.Kiểm_tra_chia_hết.executor": "Run",
-    "Python.Kiểm_tra_chia_hết_cho_7.executor": "Run",
-    "Python.Kiểm_tra_hệ_cơ_số_3.executor": "Run",
-    "Python.Kiểm_tra_nguyên_tố.executor": "Run",
-    "Python.Ký_tự_A_B_C.executor": "Run",
-    "Python.Ký_tự_thứ_k.executor": "Run",
-    "Python.Kểm_tra_chia_hết.executor": "Run",
-    "Python.Liệt_kê_số_nguyên_tố_trong_dãy.executor": "Run",
-    "Python.Liệt_kê_số_đẹp.executor": "Run",
-    "Python.Liệt_số_FIBONACCI.executor": "Run",
-    "Python.Làm_tròn_số.executor": "Run",
-    "Python.Lớp_point.executor": "Run",
-    "Python.MIN_TRIPLE.executor": "Run",
-    "Python.Ma_hoa_1.executor": "Run",
-    "Python.Mã_hoá_2.executor": "Run",
-    "Python.Nguyen_to_cung_nhau.executor": "Run",
-    "Python.Nguyên_tố_cùng_nhau.executor": "Run",
-    "Python.PERFECT_PRIME.executor": "Run",
-    "Python.PRIME_TRIPLE.executor": "Run",
-    "Python.PYTHON_FILE.executor": "Run",
-    "Python.Person.executor": "Run",
-    "Python.Phân_tích_thừa_số_nguyên_tố.executor": "Run",
-    "Python.SUM_TRIPLE_ZERO.executor": "Run",
-    "Python.So_dao_nguyen_to_cung_nhau.executor": "Run",
-    "Python.So_khong_giam.executor": "Run",
-    "Python.So_phan_nguyen_to_nho_nhat.executor": "Run",
-    "Python.So_phat_loc.executor": "Run",
-    "Python.So_xen_ke.executor": "Run",
-    "Python.Sắp_xếp_theo_tổng_chữ_số.executor": "Run",
-    "Python.Sắp_đặt_lại_xâu_ký_tự.executor": "Run",
-    "Python.Số_2_ưu_thế.executor": "Run",
-    "Python.Số_KRISH.executor": "Run",
-    "Python.Số_có_9_ước_số.executor": "Run",
-    "Python.Số_nguyên_lớn.executor": "Run",
-    "Python.Số_nhỏ_nhất_còn_thiếu.executor": "Run",
-    "Python.Số_tăng_giảm.executor": "Run",
-    "Python.Tach_so_va_sap_xep.executor": "Run",
-    "Python.Thay_đổi_chữ_số.executor": "Run",
-    "Python.Thu_gon_day_so.executor": "Run",
-    "Python.Thu_gọn_day_số.executor": "Run",
-    "Python.Thu_phi_xe_o_to.executor": "Run",
-    "Python.Tich_chu_so_Tong_chu_so.executor": "Run",
-    "Python.Tinh_tong_phan_thuc.executor": "Run",
-    "Python.Tong_chu_so_Tich_chu_so.executor": "Run",
-    "Python.Tong_chu_so_nguyen_to.executor": "Run",
-    "Python.Tuyển_nhân_viên.executor": "Run",
-    "Python.Tìm_số_lớn_nhất.executor": "Run",
-    "Python.Tìm_số_nhỏ_nhất.executor": "Run",
-    "Python.Tích_chữ_số.executor": "Run",
-    "Python.Tính_tổng_các_chữ_số.executor": "Run",
-    "Python.Tính_điểm_thi_IELTS.executor": "Run",
-    "Python.Tổng_chữ_số_thuận_nghịch.executor": "Run",
-    "Python.Tổng_ước_số.executor": "Run",
-    "Python.Uu_the_nguyen_to.executor": "Run",
-    "Python.Vị_trí_nguyên_tố.executor": "Run",
-    "Python.Xoay_mảng.executor": "Run",
-    "Python.Xuat_hien_nhieu_lan_nhat.executor": "Run",
-    "Python.Xâu_Palindrome.executor": "Run",
-    "Python.Xâu_THĂNG_BẰNG.executor": "Run",
-    "Python.Xử_lý_xâu_ký_tự.executor": "Run",
-    "Python.add.executor": "Run",
-    "Python.car.executor": "Run",
-    "Python.cunh_hoang_dao.executor": "Run",
-    "Python.dem_so_trong_sau.executor": "Run",
-    "Python.lai_suat_ngan_hang.executor": "Run",
-    "Python.new.executor": "Run",
-    "Python.new1.executor": "Run",
-    "Python.new2.executor": "Run",
-    "Python.nguyen to.executor": "Run",
-    "Python.nguyen_to.executor": "Run",
-    "Python.p0.executor": "Run",
-    "Python.p1.executor": "Run",
-    "Python.p2.executor": "Run",
-    "Python.p3.executor": "Run",
-    "Python.p4.executor": "Run",
-    "Python.p5.executor": "Run",
-    "Python.p6.executor": "Run",
-    "Python.p7.executor": "Run",
-    "Python.so_chia_het_cho_K.executor": "Run",
-    "Python.so_khong_giam.executor": "Run",
-    "Python.tach_tu.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.tinh_die_ielts.executor": "Run",
-    "Python.try.executor": "Run",
-    "Python.ucln.executor": "Run",
-    "Python.uoc_so_chung_nguyen_to.executor": "Run",
-    "Python.Điền_số.executor": "Run",
-    "Python.Đoạn_cuối_nguyên_tố.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/pythonProject",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Biến_đổi_dãy_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Biến_đổi_về_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bài1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bài_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bài_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bài_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bầu_cử.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bộ_ ba_nguyên_tố_cùng_nhau.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chan_le.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chen_dau_phay.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chia_dư_cho_42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chèn_xâu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chúc_mừng_năm_mới.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chẵn_Lẻ_nguyên_tố.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Computer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Con_số_duyên_nợ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cặp_nghịch_thế.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Danh_sách_môn_thi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dau_cuoi_nguyen_to.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dia_chi_ip.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dãy_số_nhị_phân.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dãy_số_phù_hợp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EMIRP_NUMBER.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Giai_ma.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Gửi_thông_báo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hoán_vị_ký_tự.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hệ_cơ_số_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Khoang_cach_ki_tu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kiem_tra_so_dep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kiểm_tra_chia_hết.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kiểm_tra_chia_hết_cho_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kiểm_tra_hệ_cơ_số_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kiểm_tra_nguyên_tố.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kiểm_tra_nguyên_tố_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ký_tự_A_B_C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ký_tự_thứ_k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kểm_tra_chia_hết.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Liệt_kê_số_nguyên_tố_trong_dãy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Liệt_kê_số_đẹp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Liệt_số_FIBONACCI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Làm_tròn_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lớn_nhất_và_nhỏ_nhất.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lớp_point.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MIN_TRIPLE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ma_hoa_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ma_trân_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ma_trận_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mã_hoá_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nguyen_to_cung_nhau.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nguyên_tố_cùng_nhau.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PERFECT_PRIME.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PRIME_TRIPLE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PYTHON_FILE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Phân_tích_thừa_số_nguyên_tố.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SUM_TRIPLE_ZERO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.So_dao_nguyen_to_cung_nhau.executor&quot;: &quot;Run&quot;,
+    &quot;Python.So_khong_giam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.So_phan_nguyen_to_nho_nhat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.So_phat_loc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.So_xen_ke.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sắp_xếp_theo_tổng_chữ_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sắp_đặt_lại_xâu_ký_tự.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Số_2_ưu_thế.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Số_KRISH.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Số_có_9_ước_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Số_nguyên_lớn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Số_nhỏ_nhất_còn_thiếu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Số_tăng_giảm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tach_so_va_sap_xep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Thay_đổi_chữ_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Thu_gon_day_so.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Thu_gọn_day_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Thu_phi_xe_o_to.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tich_chu_so_Tong_chu_so.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tinh_tong_phan_thuc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tong_chu_so_Tich_chu_so.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tong_chu_so_nguyen_to.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuyển_nhân_viên.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tìm_số_lớn_nhất.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tìm_số_nhỏ_nhất.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tích_chữ_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tính_tổng_các_chữ_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tính_điểm_thi_IELTS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tần_suất_lẻ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tổng_chữ_số_thuận_nghịch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tổng_ước_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Uu_the_nguyen_to.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vị_trí_nguyên_tố.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xoay_mảng.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xuat_hien_nhieu_lan_nhat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xâu_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xâu_THĂNG_BẰNG.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Xử_lý_xâu_ký_tự.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cunh_hoang_dao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dem_so_trong_sau.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lai_suat_ngan_hang.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nguyen to.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nguyen_to.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.so_chia_het_cho_K.executor&quot;: &quot;Run&quot;,
+    &quot;Python.so_khong_giam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tach_tu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tinh_die_ielts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ucln.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uoc_so_chung_nguyen_to.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Điền_số.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Đoạn_cuối_nguyên_tố.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Đổi_cơ_số_2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/pythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_PTIT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Python_PTIT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Python_PTIT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Python_PTIT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Python_PTIT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Python_PTIT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

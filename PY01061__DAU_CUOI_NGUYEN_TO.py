@@ -1,8 +1,6 @@
 def so_nguyen_to(k):
     if k < 2:
         return False
-    if k == 2:
-        return True
     for x in range(2, int(k ** 0.5)+1):
         if k % x == 0:
             return False

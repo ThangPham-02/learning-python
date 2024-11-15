@@ -13,7 +13,7 @@
 #     N = input()
 #     count = 0
 #     print(counting(S,N,count))
- # Cách 2: dùng hàm count()
+# Cách 2: dùng hàm count()
 for i in range(int(input())):
     s = input()
     n = input()
